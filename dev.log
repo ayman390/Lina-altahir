@@ -1,0 +1,12 @@
+nohup: ignoring input
+
+> luggage-share@0.0.0 dev /home/ubuntu/luggage-share
+> vite
+
+error when starting dev server:
+Error: Port 5174 is already in use
+    at Server.onError (file:///home/ubuntu/luggage-share/node_modules/.pnpm/vite@6.3.5_@types+node@24.2.1_jiti@2.4.2_lightningcss@1.30.1/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:25023:18)
+    at Server.emit (node:events:524:28)
+    at emitErrorNT (node:net:1973:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+ ELIFECYCLE  Command failed with exit code 1.
